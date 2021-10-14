@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#2E0C8B",
+        "titleBar.activeBackground": "#4010C2",
+        "titleBar.activeForeground": "#FAF9FE"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.env.windows": {
+    
+    }
+}

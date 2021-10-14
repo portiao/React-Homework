@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+ul li a{
+    text-decoration: none;
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    background-color: red;
+    color: #fff;
+}
+
+.active{
+    background-color: red;
+    color: #fff;
+}
+.nav{
+    justify-content: center;
+    margin-bottom: 100px
+}
+
